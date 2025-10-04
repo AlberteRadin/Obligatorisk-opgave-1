@@ -38,6 +38,7 @@ def service (connectionSocket):
 
 
 #{"command": "Add", "tal1": 3, "tal2": 8}
+#{"command": "Subtract", "tal1": 3, "tal2": 8}
 
 #serverName = 'servername'
 serverPort = 45
